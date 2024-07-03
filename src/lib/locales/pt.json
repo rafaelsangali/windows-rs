@@ -1,0 +1,47 @@
+{
+  "lock-screen.header.copyright": "Feito por ",
+  "lock-screen.main.subtitle": "Um pouco mais sobre mim.",
+  "lock-screen.main.button": "Tela Inicial",
+  "title.turn-off": "Desligar",
+  "title.wi-fi": "Conectado",
+  "title.battery": "Status da bateria: 100%",
+  "title.notifications": "Nenhuma notificação",
+  "title.close-app": "Fechar App",
+  "title.start": "Iniciar",
+  "apps.about-me": "Sobre Mim",
+  "apps.tracks": "Meu Top Músicas",
+  "apps.games": "Meu Top Jogos",
+  "apps.recent-projects": "Trabalho Recente",
+  "apps.discord": "Meu Discord",
+  "start-menu.main.pinned-apps": "Apps Fixados",
+  "start-menu.main.recommended-projects": "Projetos Recomendados",
+  "start-menu.placeholder": "Pesquisar no Google",
+  "about-me.paragraph-1": "Opa, fala aí! Eu sou Rafael Sangali, um desenvolvedor web.",
+  "about-me.paragraph-2": "Sou um Desenvolvedor Pleno desde Março de 2022, e me sinto realizado não apenas profissionalmente, mas também como ser humano. Através da tecnologia, podemos oferecer soluções para as pessoas, construir sonhos e facilitar o trabalho delas. O céu é o limite.",
+  "about-me.paragraph-3": "Acredito que a vida é um constante aprendizado, e estou sempre buscando novos conhecimentos e desafios. Se você chegou até aqui, gostaria de agradecer pela sua atenção e te convidar a entrar em contato comigo. Estou sempre aberto a novas conexões e oportunidades para aprender e crescer. Tenho certeza de que posso fazer o seu dia melhor de alguma forma.",
+  "about-me.paragraph-4": "No momento, minha principal stack inclui  ReactJS, NextJS, NodeJS, MySql.",
+  "about-me.paragraph-5": "Tenho vários hobbies que me apaixonam, como praticar esportes como futebol, artes marciais e, especialmente, musculação. Além disso, sou um entusiasta da música (você pode conferir algumas das minhas faixas favoritas no App de Tracks), adoro jogar futebol e, é claro, programar.",
+  "about-me.paragraph-6": "Quer falar sobre o mundo Tech, jogos, ou esportes? Manda uma mensagem!",
+  "recent-projects": {
+    "pilares": {
+      "title": "Clinica Pilares",
+      "description": "Este foi meu primeiro projeto profissional, onde desenvolvi um ERP para a gestão de clientes e doutores em uma clínica. O sistema permite gerir atendimentos por meio de uma agenda vinculada aos doutores e salas de atendimento, incluindo atendimentos online. Além disso, o ERP gera relatórios detalhados com informações sobre o desempenho dos doutores, frequência dos pacientes e gestão de custos."
+    },
+    "belgaleria": {
+      "title": "Bel Galeria de Artes",
+      "description": "No projeto para a Bel Galeria de Artes, criei um sistema de gestão abrangente para todas as obras de arte. O sistema inclui cadastro detalhado de cada obra, permitindo a sua manipulação em leilões e a geração de relatórios de autenticação, saída de obras e movimentações."
+    },
+    "eloca": {
+      "title": "Eloca ERP App",
+      "description": "O Eloca App é uma ferramenta de gestão para equipes externas, projetada para ajudar empresas a simplificar a administração e aumentar a produtividade. O aplicativo oferece funcionalidades para o gerenciamento de técnicos e equipes de vendas em campo, facilitando o acompanhamento e controle das atividades externas."
+    },
+    "workmed": {
+      "title": "Workmed",
+      "description": "Para a empresa Work Medicina, que oferece serviços de medicina e segurança do trabalho, desenvolvi um ERP completo para a gestão de usuários, colaboradores, médicos, prontuários e atendimentos. O sistema otimiza a administração dos serviços, garantindo uma gestão eficiente e segura dos dados."
+    },
+    "bemagro": {
+      "title": "Bem Agro",
+      "description": "Atualmente na plataforma Bem Agro, uma agtech focada em agricultura inteligente. A plataforma fornece soluções de software e relatórios agronômicos detalhados, aumentando significativamente a produtividade no campo. A Bem Agro facilita a tomada de decisões informadas e eficientes para os agricultores."
+    }
+  }
+}

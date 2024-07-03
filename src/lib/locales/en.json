@@ -1,0 +1,47 @@
+{
+  "lock-screen.header.copyright": "Made by ",
+  "lock-screen.main.subtitle": "A little more about me.",
+  "lock-screen.main.button": "Home Screen",
+  "title.turn-off": "Turn Off",
+  "title.wi-fi": "Connected",
+  "title.battery": "Battery status: 100%",
+  "title.notifications": "No new notifications",
+  "title.close-app": "Close App",
+  "title.start": "Start",
+  "apps.about-me": "About Me",
+  "apps.tracks": "My Top Tracks",
+  "apps.games": "My Top Games",
+  "apps.recent-projects": "My Recent Work",
+  "apps.discord": "My Discord",
+  "start-menu.main.pinned-apps": "Pinned Apps",
+  "start-menu.main.recommended-projects": "Recommended Projects",
+  "start-menu.placeholder": "Search on Google",
+  "about-me.paragraph-1": "Hey there! I'm Rafael Sangali, a web developer.",
+  "about-me.paragraph-2": "I started my journey in web programming in March 2022, and I feel fulfilled not just professionally, but also as a human being. Through technology, we can provide solutions to people, build dreams, and make their work easier. The sky is the limit.",
+  "about-me.paragraph-3": "I believe that life is a constant learning process, and I'm always seeking new knowledge and challenges. If you've made it this far, I'd like to thank you for your attention and invite you to get in touch with me. I'm always open to new connections and opportunities to learn and grow. I'm sure I can make your day better in some way.",
+  "about-me.paragraph-4": "At the moment, my main stack includes ReactJS, NextJS, NodeJS, MySql.",
+  "about-me.paragraph-5": "I have several hobbies that I'm passionate about, such as playing sports like soccer, martial arts, and especially weightlifting. I'm also a music enthusiast (you can check out some of my favorite tracks in the Tracks App), enjoy playing soccer, and of course, programming.",
+  "about-me.paragraph-6": "Want to talk about the tech world, games, or sports? Drop me a message!",
+  "recent-projects": {
+    "pilares": {
+      "title": "Clinica Pilares",
+      "description": "This was my first professional project, where I developed an ERP for managing clients and doctors in a clinic. The system allows managing appointments through a schedule linked to doctors and consultation rooms, including online appointments. Additionally, the ERP generates detailed reports with information about doctors' performance, patient frequency, and cost management."
+    },
+    "belgaleria": {
+      "title": "Bel Art Gallery",
+      "description": "For the Bel Art Gallery project, I created a comprehensive management system for all artworks. The system includes a detailed registration of each piece, allowing it to be managed in auctions and generating authentication reports, artwork exits, and movements."
+    },
+    "eloca": {
+      "title": "Eloca ERP App",
+      "description": "The Eloca App is a management tool for external teams, designed to help companies simplify administration and increase productivity. The application offers functionalities for managing technicians and field sales teams, facilitating the tracking and control of external activities."
+    },
+    "workmed": {
+      "title": "Workmed",
+      "description": "For the company Work Medicina, which offers occupational health and safety services, I developed a complete ERP for managing users, employees, doctors, medical records, and appointments. The system optimizes service administration, ensuring efficient and secure data management."
+    },
+    "bemagro": {
+      "title": "Bem Agro",
+      "description": "Currently working on the Bem Agro platform, an agtech focused on smart agriculture. The platform provides software solutions and detailed agronomic reports, significantly increasing field productivity. Bem Agro facilitates informed and efficient decision-making for farmers."
+    }
+  }
+}
